@@ -1,0 +1,15 @@
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.csproj.AssemblyReference.cache
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.AssemblyInfoInputs.cache
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.AssemblyInfo.cs
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.exe
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.deps.json
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.runtimeconfig.json
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.dll
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\bin\Debug\net6.0\Fibonachi.pdb
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.dll
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\obj\Debug\net6.0\refint\Fibonachi.dll
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.pdb
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\obj\Debug\net6.0\Fibonachi.genruntimeconfig.cache
+C:\Users\karasev.n\Desktop\Project\Factorial and Fibonachi\Fibonachi\obj\Debug\net6.0\ref\Fibonachi.dll
